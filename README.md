@@ -29,14 +29,8 @@
 <p>👉As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team.</p>
 <p>👉In my free time I like doing courses and build up new skills.</p>
 <p>👉I like playing football and listen to music other than that.</p>
-<p>👉Some of my other skills include, MS Office, Adobe Audition, Blender.Hello! Subhojit here. CS undergrad(2025) </p>
-<p>👉Kolkata native with a passion for web dev , UI/UX Designs , Blockchain Technology & Web 3.0. </p>
-<p>👉I have worked on a project which helps in the registration system of any institution by setting up criterias with the help of Core Java & implementation of Data Structure Algorithm. </p>
-<p>👉I am actively searching for internship opportunities in various new domains of technical, algorithmic and financial avenues to get the exposure and learn new things. </p>
-<p>👉As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team. </p>
-<p>👉In my free time I like doing courses and build up new skills. </p>
-<p>👉I like playing football and listen to music other than that.</p>
 <p>👉Some of my other skills include, MS Office, Adobe Audition, Blender.</p>
+
 </p>
 
 <!---
@@ -52,3 +46,38 @@
 <p>⭐ Know about my experiences from [My Resume](https://drive.google.com/file/d/1hLQFcQ0n-CYQ8lVPYyRHSeKvO5V0TqDY/view?usp=sharing)</p>
 
 <br>
+
+<h3 align="left">Github Metrics : </h3>
+
+
+<br />
+
+<table align="center">
+<tr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subhojit666&theme=tokyonight&no-frame=true&column=-1" alt="Subhojit666" /></a> </p>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subhojit666&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Subhojit666&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+<br />
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
+
+<br>
+
+[![Subhojit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subhojit666&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Subhojit666)
+
+<div align="center">
+<br>
+<h3 align="left">My Holopin Board : </h3>
+
+[![@Subhojit666's Holopin board](https://holopin.me/Subhojit666)](https://holopin.io/@Subhojit666)
+
+</div>
+
+___________________
+
