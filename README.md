@@ -43,7 +43,7 @@
 
 <p>⭐ A Blockchain enthusiast</p>
 <p>⭐ Currently learning M.E.R.N</p>
-<p>⭐ Know about my experiences from [My Resume](https://drive.google.com/file/d/1hLQFcQ0n-CYQ8lVPYyRHSeKvO5V0TqDY/view?usp=sharing)</p>
+⭐ Know about my experiences from [My Resume](https://drive.google.com/file/d/1hLQFcQ0n-CYQ8lVPYyRHSeKvO5V0TqDY/view?usp=sharing)
 
 <br>
 
