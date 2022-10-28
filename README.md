@@ -38,7 +38,7 @@
 --->
 
 <br>
-<h3>More About Me</h3>
+<h3>More About Me : </h3>
 <br>
 
 <p>⭐ A Blockchain enthusiast</p>
