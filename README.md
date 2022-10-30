@@ -27,7 +27,7 @@
 <p>👉I have worked on a project which helps in the registration system of any institution by setting up criterias with the help of Core Java & implementation of Data Structure Algorithm. </p>
 <p>👉I am actively searching for internship opportunities in various new domains of technical, algorithmic and financial avenues to get the exposure and learn new things.</p>
 <p>👉As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team.</p>
-<p>👉In my free time I like doing courses and build up new skills.</p>
+<p>👉In my free time I like doing courses & build up new skills.</p>
 <p>👉I like playing football⚽ and listen to music other than that.</p>
 <p>👉Some of my other skills include, MS Office, Adobe Audition, Blender.</p>
 
