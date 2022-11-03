@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring developer from India.</h3>
 
  
-<br>
+<br> 
 <div align="left">
 
 <img src="https://komarev.com/ghpvc/?username=Subhojit666&label=Profile%20views&color=0e75b6&style=flat" alt="Subhojit666" />  [![GitHub followers](https://img.shields.io/github/followers/Subhojit666.svg?style=social&label=Follow)](https://github.com/Subhojit666?tab=followers)
