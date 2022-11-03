@@ -12,7 +12,7 @@
 <h1 align="center">👋 ✨</h1> 
 <br>
 
-<h3 align="right">Connect with me on</h3>
+<h3 align="right">Connect with me on</h3> 
 <p align="right"> 
 <a  href="https://www.linkedin.com/in/subhojitghosh2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Voidman23" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
