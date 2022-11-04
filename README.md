@@ -22,7 +22,7 @@
 <h3>About Me</h3>
 
 <br>
-<p align='center'>
+<p align='center'> 
 <p>👉Kolkata native with a passion for web dev , UI/UX Designs , Blockchain Technology & Web 3.0.</p>
 <p>👉I have worked on a project which helps in the registration system of any institution by setting up criterias with the help of Core Java & implementation of Data Structure Algorithm. </p>
 <p>👉I am actively searching for internship opportunities in various new domains of technical, algorithmic and financial avenues to get the exposure and learn new things.</p>
