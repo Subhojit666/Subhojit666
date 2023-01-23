@@ -77,7 +77,7 @@
 
 <br>
 
-[![Subhojit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subhojit666&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Subhojit666)
+<!---[![Subhojit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subhojit666&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Subhojit666)--->
 
 <div align="center">
 <br>
