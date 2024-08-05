@@ -44,7 +44,7 @@
 <p>⭐ A Blockchain enthusiast</p>
 <p>⭐ Currently learning M.E.R.N</p>
 
-⭐ Know about my experiences from [My Resume](https://drive.google.com/file/d/1hLQFcQ0n-CYQ8lVPYyRHSeKvO5V0TqDY/view?usp=sharing)
+⭐ Know about my experiences from [My Resume](https://drive.google.com/file/d/17NS86P78GGPhI60wt3d9_y1YV-KQ3afq/view)
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
