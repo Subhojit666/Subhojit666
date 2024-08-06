@@ -45,16 +45,6 @@
 - **BlogNation**: A full-stack blogging platform using MERN stack with advanced features
 - **Estatedotcom**: A real estate listing website with React, Redux, and Firebase integration
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhojit666&show_icons=true&theme=radical" alt="Subhojit's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=dark" alt="Subhojit's GitHub streak" />
-</p>
-
 ## 🌟 Fun Facts
 
 - 🎵 I enjoy listening to music in my free time
@@ -71,37 +61,35 @@ For more details about my experiences, check out [My Resume](https://drive.googl
 
 <br>
 
-<h3 align="left">Github Metrics : </h3>
+<h2 align="center">🏆 GitHub Achievements & Metrics 🏆</h2>
 
-
-<br />
-
-<table align="center">
-<tr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subhojit666&theme=tokyonight&no-frame=true&column=-1" alt="Subhojit666" /></a> </p>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subhojit666&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Subhojit666&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-<br />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhojit666&theme=nord&no-frame=true&column=-1&margin-w=15&margin-h=15" alt="Subhojit666" />
 </p>
 
-<br>
-
-<!---[![Subhojit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Subhojit666&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Subhojit666)--->
-
 <div align="center">
-<br>
-<h3 align="left">My Holopin Board : </h3>
-
-[![@Subhojit666's Holopin board](https://holopin.me/Subhojit666)](https://holopin.io/@Subhojit666)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subhojit666&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhojit666&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-___________________
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+</p>
 
+<h3 align="center">📊 Contribution Graph 📊</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhojit666&theme=react-dark&hide_border=true&area=true" width="100%">
+
+<h3 align="center">🎖 My Holopin Board 🎖</h3>
+
+<p align="center">
+  <a href="https://holopin.io/@Subhojit666">
+    <img src="https://holopin.me/Subhojit666" alt="@Subhojit666's Holopin board" />
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhojit666&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
