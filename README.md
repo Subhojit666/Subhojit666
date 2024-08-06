@@ -1,57 +1,73 @@
-<h1 align="center">Hi 👋, Iam Subhojit</h1>
-<h3 align="center">An aspiring developer from India.</h3>
-    
-    
-<br>       
-<div align="left">
+<h1 align="center">Hi 👋, I'm Subhojit Ghosh</h1>
+<h3 align="center">An aspiring developer and data enthusiast from India</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Subhojit666&label=Profile%20views&color=0e75b6&style=flat" alt="Subhojit666" />  [![GitHub followers](https://img.shields.io/github/followers/Subhojit666.svg?style=social&label=Follow)](https://github.com/Subhojit666?tab=followers)
-    
-</div>    
-  
-<h1 align="center">👋 ✨</h1> 
-<br>
-
-<h3 align="right">Connect with me on </h3> 
-<p align="right"> 
-<a  href="https://www.linkedin.com/in/subhojitghosh2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Voidman23" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:subhojitghosh666@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
-<br>
-<h3>About Me</h3>
-
-<br>
-<p align='center'> 
-<p>👉Kolkata native with a passion for web dev , UI/UX Designs , Blockchain Technology & Web 3.0.</p>
-<p>👉I have worked on a project which helps in the registration system of any institution by setting up criterias with the help of Core Java & implementation of Data Structure Algorithm. </p>
-<p>👉I am actively searching for internship opportunities in various new domains of technical, algorithmic and financial avenues to get the exposure and learn new things.</p>
-<p>👉As for my future, I want to be a software developer for one of the top tech companies and work with a diverse team.</p>
-<p>👉In my free time I like doing courses & build up new skills.</p>
-<p>👉I like playing football⚽ and listen to music other than that.</p>
-<p>👉Some of my other skills include, MS Office, Adobe Audition, Blender.</p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhojit666&label=Profile%20views&color=0e75b6&style=flat" alt="Subhojit666" />
+  <a href="https://github.com/Subhojit666?tab=followers">
+    <img src="https://img.shields.io/github/followers/Subhojit666.svg?style=social&label=Follow" alt="GitHub followers" />
+  </a>
 </p>
 
-<!---
-<p align="left"> <a href="https://twitter.com/Voidman23" target="blank"><img src="https://img.shields.io/twitter/follow/Voidman23?logo=twitter&style=for-the-badge" alt="Voidman23" /></a> </p>
---->
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/subhojitghosh2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Voidman23" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+  <a href="mailto:subhowork97@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br>
-<h3>More About Me : </h3>
-<br>
+## 🚀 About Me
 
-<p>⭐ A Blockchain enthusiast</p>
-<p>⭐ Currently learning M.E.R.N</p>
+- 🎓 B.Tech in Computer Science and Engineering (2021-2025) at Institute of Engineering and Management, Kolkata
+- 💼 Freelance Data Analyst with experience in Snowflake, ETL processes, and cloud computing
+- 🏥 Former IT Intern at Medica Superspecialty Hospital
+- 💻 Full-stack developer with a passion for MERN stack
+- 🔍 Enthusiast in Blockchain Technology & Web 3.0
+- 🌟 Actively seeking internship opportunities in tech and finance sectors
 
-⭐ Know about my experiences from [My Resume](https://drive.google.com/file/d/17NS86P78GGPhI60wt3d9_y1YV-KQ3afq/view)
+## 🛠️ Skills & Technologies
 
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
-<br>
-<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 🏆 Projects
+
+- **BlogNation**: A full-stack blogging platform using MERN stack with advanced features
+- **Estatedotcom**: A real estate listing website with React, Redux, and Firebase integration
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhojit666&show_icons=true&theme=radical" alt="Subhojit's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=dark" alt="Subhojit's GitHub streak" />
+</p>
+
+## 🌟 Fun Facts
+
+- 🎵 I enjoy listening to music in my free time
+- ⚽ Football enthusiast
+- 🎨 Skilled in MS Office, Adobe Audition, and Blender
+
+## 📄 Resume
+
+For more details about my experiences, check out [My Resume](https://drive.google.com/file/d/17NS86P78GGPhI60wt3d9_y1YV-KQ3afq/view)
+
+---
+
+<p align="center">Thanks for visiting my profile! Feel free to connect and collaborate. 😊</p>
 
 <br>
 
