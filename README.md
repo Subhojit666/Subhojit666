@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Subhojit Ghosh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Subhojit!;Welcome+to+my+GitHub" alt="Typing SVG" />
+</h1>
 <h3 align="center">An aspiring developer and data enthusiast from India</h3>
 
 <p align="center">
@@ -48,10 +50,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 🏆 Projects
+## 🏗️ Featured Projects
 
-- **BlogNation**: A full-stack blogging platform using MERN stack with advanced features
-- **Estatedotcom**: A real estate listing website with React, Redux, and Firebase integration
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BlogNation</h3>
+      <p align="center">
+        <a href="https://github.com/Subhojit666/BlogNation" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+        </a>
+      </p>
+      <p align="center">A full-stack blogging platform using MERN stack with advanced features</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Estatedotcom</h3>
+      <p align="center">
+        <a href="https://github.com/Subhojit666/Estatedotcom" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github" alt="View on GitHub"/>
+        </a>
+      </p>
+      <p align="center">A real estate listing website with React, Redux, and Firebase integration</p>
+    </td>
+  </tr>
+</table>
 
 ## 🌟 Fun Facts
 
@@ -84,9 +106,7 @@ For more details about my experiences, check out [My Resume](https://drive.googl
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">📊 Contribution Graph 📊</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhojit666&theme=react-dark&hide_border=true&area=true" width="100%">
 
 <h3 align="center">🎖 My Holopin Board 🎖</h3>
 
