@@ -2,28 +2,36 @@
 <h3 align="center">An aspiring developer and data enthusiast from India</h3>
 
 <p align="center">
+  <a href="https://subhojit666.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhojitghosh2002/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Voidman23" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:subhowork97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subhojit666&label=Profile%20views&color=0e75b6&style=flat" alt="Subhojit666" />
   <a href="https://github.com/Subhojit666?tab=followers">
     <img src="https://img.shields.io/github/followers/Subhojit666.svg?style=social&label=Follow" alt="GitHub followers" />
   </a>
 </p>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhojitghosh2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Voidman23" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-  <a href="mailto:subhowork97@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-## 🚀 About Me
+## 🚀 Quick Overview
 
 - 🎓 B.Tech in Computer Science and Engineering (2021-2025) at Institute of Engineering and Management, Kolkata
-- 💼 Freelance Data Analyst with experience in Snowflake, ETL processes, and cloud computing
-- 🏥 Former IT Intern at Medica Superspecialty Hospital
+- 💼 Freelance Data Analyst | Former IT Intern at Medica Superspecialty Hospital
 - 💻 Full-stack developer with a passion for MERN stack
 - 🔍 Enthusiast in Blockchain Technology & Web 3.0
 - 🌟 Actively seeking internship opportunities in tech and finance sectors
 
+  
 ## 🛠️ Skills & Technologies
 
 <p align="center">
