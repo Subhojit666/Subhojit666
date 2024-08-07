@@ -94,13 +94,8 @@ For more details about my experiences, check out [My Resume](https://drive.googl
 <h2 align="center">🏆 GitHub Achievements & Metrics 🏆</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhojit666&theme=nord&no-frame=true&column=-1&margin-w=15&margin-h=15" alt="Subhojit666" />
+<img src="https://github-readme-stats.vercel.app/api?username=Subhojit666&count_private=true&show_icons=true&theme=radical&hide_border=true&stroke=0000&background=0D1117&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="48%" />
 </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subhojit666&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhojit666&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhojit666&theme=radical&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
